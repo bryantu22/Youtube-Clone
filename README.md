@@ -10,3 +10,15 @@ Web application built using [ReactJS](https://reactjs.org/) and the [Youtube Dat
 > npm start
 > open "localhost:8080" in your browser
 ```
+
+
+**Not familiar with Git?**
+
+Download the repository as a zip [here](https://github.com/bryantu22/Bitcoin-Speed-Up/archive/master.zip)
+```
+> Extract the content of the zip into a folder
+> open your terminal and 'cd' into that folder
+> npm install
+> npm start
+> open "localhost:8080" in your browser
+```
