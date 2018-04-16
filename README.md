@@ -8,5 +8,5 @@ Web application built using [ReactJS](https://reactjs.org/) and the [Youtube Dat
 > cd Youtube-Clone
 > npm install
 > npm start
-> open localhost:8080 in your browser
+> open "localhost:8080" in your browser
 ```
