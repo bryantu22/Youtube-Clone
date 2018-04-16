@@ -1,4 +1,4 @@
-# Youtube-Clone
+# Youtube Clone
 Web application built using [ReactJS](https://reactjs.org/) and the [Youtube Data API](https://developers.google.com/youtube/v3/).
 
 **How to run it using Git**
